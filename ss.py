@@ -51,8 +51,7 @@ print(str.encode())
 
 
 #lists and functions
-from attr import mutable
-from pyrsistent import immutable
+
 
 
 a = [10, 25, 30, 55, 45]

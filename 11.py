@@ -10,7 +10,7 @@ print('\narrow')
 print('\\narrow')
 '''
 
-#escape_7
+#escape_
 '''
 print('a:\namzing!')
 print("a:\'amazing!'")
@@ -20,7 +20,7 @@ print('nice \n good \t12')
 #print(""chintan"")_show the error
 #print("\"chintan\"")_correct way to write in inverted form
 
-#8
+
 #varibles
 
 
