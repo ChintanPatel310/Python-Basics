@@ -11,14 +11,14 @@ print('\narrow')       #/n use while we print new line (alert when we use this t
 print('\\narrow')      #otherwise
 
 
- #escape_
+#escape_
 
 print('a:\namzing!')            #escape statement
 print("a:\'amazing!'")
 print('nice \n good \t12')      #tab and new line character
 
 print('hi, i\'m from lunawada') 
-print(""chintan"")               #show the error
+#print(""chintan"")               #show the error
 print("\"chintan\"")             #correct way to write in inverted form
 
 
